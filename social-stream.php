@@ -2,7 +2,7 @@
 /*
 Plugin Name: Social Stream
 Description: Pull your Twitter, Facebook and WordPress posts into one neat section
-Version: 1.0
+Version: 1.0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 Author: Cocoon Development Ltd

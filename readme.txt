@@ -4,7 +4,7 @@ Donate link: http://stephenradford.me/wordpress-social-stream/
 Tags: posts, social, facebook, twitter, feed
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,9 @@ You don't need to roll your own regex as we've included a couple of static metho
 [Stephen Radford](http://stephenradford.me) ([@steve228uk](http://twitter.com/steve228uk)), a web developer at [Cocoon](http://wearecocoon.co.uk).
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed issue that caused posts to always display at the bottom of the stream
 
 = 1.0 =
 * We made it to 1.0!

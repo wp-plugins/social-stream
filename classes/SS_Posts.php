@@ -46,7 +46,7 @@ class SS_Posts {
                 'ID'         => $post->ID,
                 'title'      => get_the_title($post->ID),
                 'content'    => apply_filters('the_content', $post->post_content),
-                'created_at' => get_the_time('U', $post->ID),
+                'created_at' => get_the_time('F j H:i:s Y', $post->ID),
             );
         }
 
